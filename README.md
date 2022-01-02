@@ -1,2 +1,17 @@
-# whiteship-livestudy-posting
-백기선님 Java 라이브 스터디 참여 포스팅 정리
+# [백기선님 Java 라이브 스터디](https://github.com/whiteship/live-study) 포스팅 리스트
+
+* [1주차 과제: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://read-write-developer.tistory.com/112?category=819503)
+* [2주차 과제: 자바 데이터 타입, 변수 그리고 배열](https://read-write-developer.tistory.com/113?category=819503)
+* [3주차 과제: 연산자](https://read-write-developer.tistory.com/114?category=819503)
+* [4주차 과제: 제어문](https://read-write-developer.tistory.com/115?category=819503)
+* [5주차 과제: 클래스](https://read-write-developer.tistory.com/116?category=819503)
+* [6주차 과제 - 상속](https://read-write-developer.tistory.com/117?category=819503)
+* [7주차 과제 - 패키지](https://read-write-developer.tistory.com/119?category=819503)
+* [8주차 과제 - 인터페이스](https://read-write-developer.tistory.com/120?category=819503)
+* [9주차 과제 - 예외처리](https://read-write-developer.tistory.com/121?category=819503)
+* [10주차 과제 - 멀티쓰레드 프로그래밍](https://read-write-developer.tistory.com/123?category=819503)
+* [11주차 과제: Enum](https://read-write-developer.tistory.com/124?category=819503)
+* [12주차 과제: 애노테이션](https://read-write-developer.tistory.com/126?category=819503)
+* [13주차 과제: I/O](https://read-write-developer.tistory.com/128?category=819503)
+* [14주차 과제: 제네릭](https://read-write-developer.tistory.com/127?category=819503)
+* [15주차 과제: 람다식](https://read-write-developer.tistory.com/129?category=819503)
